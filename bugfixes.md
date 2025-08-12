@@ -14,7 +14,9 @@ It's part of my learning process and helps me track progress and mistakes.
 - ✅ Rozwiązanie: Dodano warunek `if data:` przed parsowaniem
 - 💡 Lekcja: `json.loads()` wymaga poprawnego formatu – warto zawsze sprawdzać dane przed parsowaniem
 
-  Szablon:
+---
+
+Szablon:
   ## 🐞 Błąd: [Nazwa błędu lub krótki opis]
 
 - 🎓 Moduł kursu: [Nazwa modułu, np. "Obsługa plików", "Flask – routing"]
