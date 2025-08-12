@@ -5,18 +5,6 @@ Each entry includes the module, the issue, the reaseon, the fix, and a short ref
 It's part of my learning process and helps me track progress and mistakes.
 
 ---
-
-## 🐞 Błąd: JSONDecodeError
-
-- 🎓 Moduł kursu: API i obsługa danych JSON
-- ❌ Problem: Próba wczytania pustego stringa przez `json.loads()`
-- 🔍 Przyczyna: Brak walidacji danych wejściowych
-- ✅ Rozwiązanie: Dodano warunek `if data:` przed parsowaniem
-- 💡 Lekcja: `json.loads()` wymaga poprawnego formatu – warto zawsze sprawdzać dane przed parsowaniem
-
----
-
-Szablon:
   ## 🐞 Błąd: [Nazwa błędu lub krótki opis]
 
 - 🎓 Moduł kursu: [Nazwa modułu, np. "Obsługa plików", "Flask – routing"]
@@ -24,3 +12,12 @@ Szablon:
 - 🔍 Przyczyna: [Dlaczego wystąpił błąd? Co było źródłem?]
 - ✅ Rozwiązanie: [Jak go naprawiłaś? Co zmieniłaś w kodzie?]
 - 💡 Lekcja: [Czego się nauczyłaś? Jakie wnioski na przyszłość?]
+
+example:
+## 🐞 Błąd: TypeError przy dodawaniu do listy
+
+- 🎓 Moduł kursu: Podstawy Pythona – struktury danych
+- ❌ Problem: Próba dodania `None` do listy powodowała wyjątek
+- 🔍 Przyczyna: Funkcja zwracała `None`, bo brakowało `return`
+- ✅ Rozwiązanie: Dodano `return new_item` na końcu funkcji
+- 💡 Lekcja: Funkcja bez `return` zwraca `None` – warto zawsze sprawdzać, co funkcja zwraca
