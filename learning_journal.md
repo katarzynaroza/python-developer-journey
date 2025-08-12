@@ -4,23 +4,25 @@ This journal tracks my progress, reflections, and insights during the Python Dev
 
 ---
 
-## Week 1
+## Week X
 
-**Topics covered:**
-- Python basics: variables, functions, loops
-- Git and GitHub: repositories, commits
+**Topics Covered:**
+- Short bullet list of concepts
+
+**Key Insights:**
+- What surprised me?
+- What clicked this week?
 
 **Challenges:**
-- Understanding error messages
-- Structuring code clearly
+- What was hard?
+- How did I approach it?
 
-**Reflections:**
-- I learn best by doing — hands-on practice helps me retain concepts
-- Debugging is frustrating but rewarding
+**Gallup Talents in Action:**
+- How did I use Restorative, Developer, etc.?
 
-**Next steps:**
-- Build a simple CLI project
-- Review Python data types and error handling
+**Next Steps:**
+- What I want to try next
+- Questions I still have
 
 ---
 
