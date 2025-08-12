@@ -24,13 +24,18 @@ My top 5 strengths:
 - Connectedness
 - Responsibility
 
-## 🛠️ Technologies
+## 🛠️ Technologies Covered
 
-- Python
-- REST API
-- SQLite / PostgreSQL
-- Pytest
+- Python (core, async, data analysis)
+- Flask / Django / Django REST Framework
+- SQL (PostgreSQL, SQLite)
+- HTML & CSS (basic and advanced)
+- JavaScript (basics)
+- Git & Terminal
 - Markdown
+- Generative AI (intro)
+- ORM (Django models)
+- Networking fundamentals
 
 ## 📚 Development Resources
 
