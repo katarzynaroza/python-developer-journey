@@ -1,30 +1,30 @@
 # 🐍 Python Developer Journey
 
-Cześć! 👋  
-To moje repozytorium dokumentujące naukę programowania w Pythonie podczas kursu online. Łączę tu rozwój techniczny z rozwojem osobistym — szczególnie talentów Gallupa.
+Hi there! 👋  
+This repository documents my learning journey as a Python developer during an online course. I combine technical growth with personal development — especially through Gallup strengths.
 
-## 📌 Co znajdziesz w środku?
+## 📌 What's inside?
 
-- Notatki z kursu i mini-projekty
-- Checklisty i ściągi
-- Dziennik nauki
-- Plan rozwoju talentów Gallupa
-- Pytania do mentorów
+- Notes and mini-projects
+- Checklists and cheat sheets
+- Learning journal
+- Gallup talents development plan
+- Mentor question guide
 
-## 🎯 Cel
+## 🎯 Goal
 
-Zbudować solidne portfolio, rozwijać się jako developerka i tworzyć wartość, która może pomóc innym — nawet jeśli ich nie znam.
+To build a solid portfolio, grow as a developer, and create value that might help others — even if I don't know them yet.
 
-## 🧠 Talenty Gallupa
+## 🧠 Gallup Talents
 
-Skupiam się szczególnie na:
-- Naprawianie (Restorative)
-- Zgodność (Harmony)
-- Rozwijanie innych (Developer – solo)
-- Współzależność (Connectedness)
-- Odpowiedzialność (Responsibility)
+My top 5 strengths:
+- Restorative
+- Harmony
+- Developer (solo version)
+- Connectedness
+- Responsibility
 
-## 🛠️ Technologie
+## 🛠️ Technologies
 
 - Python
 - REST API
@@ -32,6 +32,12 @@ Skupiam się szczególnie na:
 - Pytest
 - Markdown
 
-## 📬 Kontakt
+## 📚 Development Resources
 
-Jeśli chcesz się czymś podzielić lub zapytać — śmiało! 😊
+- [Talents Development Plan](talents_plan.md)
+- [Mentor Questions](mentor_questions.md)
+- [Learning Journal](learning_journal.md)
+
+## 📬 Contact
+
+Feel free to reach out or share feedback — I'm always learning! 😊
