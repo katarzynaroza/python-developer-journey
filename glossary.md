@@ -22,14 +22,6 @@ It includes common terms from frontend, backend, testing, GitHub, DevOps, securi
 
 ---
 
-| Issue                  | zgłoszenie / problem        | Created GitHub issue for broken layout          |
-| Tag                    | tag / etykieta              | Tagged release v1.0.1                           |
-
-| Hyperparameter         | hiperparametr               | Tuned learning rate and batch size              |
-| Evaluation             | ewaluacja / ocena           | Used accuracy and F1 score for evaluation       |
-
----
-
 📌 This glossary will grow as I learn more. It's a tool to help me write clearly and confidently in English while documenting bugs and fixes.
 
 ---
