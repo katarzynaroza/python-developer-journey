@@ -53,7 +53,7 @@ My top 5 strengths:
 
 - [Talents Development Plan](talents_plan.md)
 - [Mentor Questions](mentor_questions.md)
-- [Bugfix Log](bugfix_log.md)
+- [Bugfixes](bugfixes.md)
 - [Glossary – EN/PL](glossary.md)
 
 ---
