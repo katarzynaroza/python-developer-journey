@@ -8,7 +8,7 @@ Use this checklist to stay consistent and intentional — without overwhelming y
   _Main place for documenting what you learned today (e.g. `03_python_extended/`)_
 
 - [ ] 🗒️ **Add a short reflection at the end of module notes**  
-  _1–2 sentences: What clicked today? What was hard?_
+  _1–2 sentences: What clicked today? What was hard? You can follow up with questions from learning jurney_
 
 - [ ] 🐞 **Log bugs or issues (only if relevant)**  
   _Update `bugfix_log.md` if you debugged something_
