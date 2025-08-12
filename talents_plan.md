@@ -65,18 +65,11 @@
 
 ---
 
-## 🗓 Weekly Reflection Template
-**Date:** [Insert date]  
-
-**Strengths used this week:**  
-- Restorative, Developer, Harmony  
-
-**Highlights:**  
-- [Example: Fixed a bug and documented it]  
-- [Example: Created a cheat sheet]  
-- [Example: Felt calm and focused]  
-
-**Goals for next week:**  
-- [Example: Map Django views to REST endpoints]  
-- [Example: Stick to daily checklist]  
-- [Example: Create a resource future me will thank me for]
+🧠 Twój zestaw talentów:
+| Talent         | Siła i wpływ na naukę programowania |
+|----------------|-------------------------------------|
+| Restorative    | Rozwiązywanie błędów, analiza problemów |
+| Harmony        | Jasna komunikacja, unikanie konfliktów |
+| Developer      | Tworzenie zasobów, wspieranie innych |
+| Connectedness  | Myślenie systemowe, zależności w kodzie |
+| Responsibility | Planowanie, konsekwencja, jakość pracy |
