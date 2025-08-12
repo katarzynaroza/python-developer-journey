@@ -38,6 +38,25 @@ My top 5 strengths:
 - [Mentor Questions](mentor_questions.md)
 - [Learning Journal](learning_journal.md)
 
+## 📚 Course Modules
+
+- [Python Basics](01_python_basics/)
+- [Generative AI Intro](02_gen_ai_intro/)
+- [Extended Python](03_python_extended/)
+- [Git & Terminal](04_git_terminal/)
+- [Core Python](05_python_core/)
+- [SQL Basics](06_sql_basics/)
+- [Django ORM](07_django_orm/)
+- [HTML + CSS Intro](08_html_css_intro/)
+- [Advanced HTML + CSS](09_html_css_advanced/)
+- [Networking](10_networking/)
+- [Django](11_django/)
+- [Django REST Framework](12_django_rest/)
+- [Async Python](13_async_python/)
+- [JavaScript Basics](14_js_basics/)
+- [Python for Data Analysis](15_python_data_analysis/)
+- [Job Hunting](16_job_hunting/)
+
 ## 📬 Contact
 
 Feel free to reach out or share feedback — I'm always learning! 😊
