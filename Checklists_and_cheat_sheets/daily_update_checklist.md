@@ -33,4 +33,4 @@ Use this checklist to stay consistent and intentional — without overwhelming y
 
 ```markdown
 ## 🗓️ Daily Reflection – 2025-08-12
-Dziś ćwiczyłam list comprehensions. Początkowo były nieintuicyjne, ale po kilku przykładach zaczęłam je rozumieć.
+Today I practiced understanding lists. At first they were unintuitive, but after a few examples I started to understand them.
