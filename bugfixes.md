@@ -1,4 +1,4 @@
-# 🐞 Bugfix Log
+# 🐞 Bugfixes
 
 This file documents bugs I encountered and how I solved them.  
 Each entry includes the module, the issue, the fix, and a short reflection.  
