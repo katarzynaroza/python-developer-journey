@@ -1,104 +1,82 @@
-# 🌱 Gallup Talent Development Plan – Python Developer Journey
-
-This file helps me intentionally develop my Gallup strengths during the course.  
-It’s designed for solo learning, with weekly reflections and daily micro-practices.
-
----
+# 🌱 Development Plan – Python Developer
 
 ## 🔧 Restorative
-
-I enjoy solving problems and fixing broken things — especially in code.
-
-**Weekly Focus:**
+**Weekly goals:**
 - Practice debugging and testing
-- Keep a bugfix log: what went wrong, how I solved it
-- Go deeper than “just fix it” — understand the root cause
+- Keep a bugfix log
+- Look for root causes, not just fixes
 
-**Daily Micro-Practices:**
-- Analyze one bug in depth
-- Write down what I learned from fixing it
-- Reflect: Did I feel energized by solving this?
+**Daily:**
+- Analyze 1 bug in depth
+- Write down lessons learned
+- Reflect: Did it energize me?
 
 ---
 
 ## 🤝 Harmony
+**Weekly goals:**
+- Write clear READMEs and comments
+- Give yourself constructive feedback
+- Choose balanced, sustainable solutions
 
-I value clarity, calm, and constructive communication — even with myself.
-
-**Weekly Focus:**
-- Practice writing clear README files and code comments
-- Give myself kind, useful feedback
-- Choose solutions that feel balanced and sustainable
-
-**Daily Micro-Practices:**
-- Ask: “Is this solution clear and respectful — even to future me?”
-- Rephrase one note or comment to make it more constructive
-- Reflect: Did I avoid unnecessary stress today?
+**Daily:**
+- Ask: “Is this solution clear and respectful?”
+- Rephrase 1 note/comment to be more constructive
+- Avoid unnecessary stress
 
 ---
 
-## 🌱 Developer (solo version)
+## 🌱 Developer
+**Weekly goals:**
+- Create notes, cheat sheets, checklists
+- Document learning for yourself and others
+- Share solutions (GitHub, blog, portfolio)
 
-I grow by creating, documenting, and sharing — even if it’s just for myself.
-
-**Weekly Focus:**
-- Create notes, cheat sheets, and checklists
-- Document my learning in ways that help future me
-- Share solutions publicly (GitHub, blog, portfolio)
-
-**Daily Micro-Practices:**
-- Write down one thing I wish I’d known last week
-- Create a micro-resource: comment, diagram, note, or snippet
-- Reflect: Did I build something that shows growth?
+**Daily:**
+- Write down 1 thing I wish I knew last week
+- Create a micro-resource (comment, diagram, snippet)
+- Reflect on progress
 
 ---
 
 ## 🔗 Connectedness
-
-I see how things fit together — and I learn best when I understand the system.
-
-**Weekly Focus:**
-- Explore how different parts of an app connect
+**Weekly goals:**
+- Explore app interconnections
 - Learn system architecture and dependencies
-- Think about how my work affects the whole
+- Consider impact on the whole system
 
-**Daily Micro-Practices:**
-- Ask: “How does this piece of code affect the rest?”
-- Create a diagram or mind map of relationships
-- Reflect: Did I notice a pattern or connection today?
+**Daily:**
+- Ask: “How does this code affect the rest?”
+- Create a diagram or mind map
+- Note patterns and connections
 
 ---
 
 ## 🧭 Responsibility
-
-I take ownership of my learning and follow through on my commitments.
-
-**Weekly Focus:**
+**Weekly goals:**
 - Plan tasks and track progress
-- Set realistic goals and stick to them
-- Communicate clearly — even in documentation
+- Set realistic goals
+- Communicate clearly (including docs)
 
-**Daily Micro-Practices:**
-- Plan my learning session and review it afterward
-- Write down one commitment and follow through
-- Reflect: Did I act with integrity today?
+**Daily:**
+- Plan and review the learning session
+- Write down 1 commitment and follow through
+- Check if I acted with integrity
 
 ---
 
-## 🗓️ Weekly Reflection Template
+## 🗓 Weekly Reflection Template
+**Date:** [Insert date]  
 
-```markdown
-## 🌱 Weekly Reflection – [Insert Date]
-
-**Strengths that showed up this week:**  
-Restorative, Developer, Harmony
+**Strengths used this week:**  
+- Restorative, Developer, Harmony  
 
 **Highlights:**  
-- Fixed a tricky bug in Django and documented it in my bugfix log  
-- Created a new cheat sheet for SQL joins  
-- Felt calm and focused while writing notes — Harmony helped me stay balanced
+- [Example: Fixed a bug and documented it]  
+- [Example: Created a cheat sheet]  
+- [Example: Felt calm and focused]  
 
 **Goals for next week:**  
-- Use Connectedness to map Django views to REST endpoints  
-- Practice Responsibility by sticking to my daily checklist  
-- Create one resource that future me will thank me for
+- [Example: Map Django views to REST endpoints]  
+- [Example: Stick to daily checklist]  
+- [Example: Create a resource future me will thank me for]
