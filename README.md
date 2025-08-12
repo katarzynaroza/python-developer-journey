@@ -10,7 +10,6 @@ I combine technical growth with personal development — especially through Gall
 
 - Notes and mini-projects
 - Checklists and cheat sheets
-- Learning journal
 - Gallup talents development plan
 - Mentor question guide
 - Bugfix log with real coding issues
@@ -54,7 +53,6 @@ My top 5 strengths:
 
 - [Talents Development Plan](talents_plan.md)
 - [Mentor Questions](mentor_questions.md)
-- [Learning Journal](learning_journal.md)
 - [Bugfix Log](bugfix_log.md)
 - [Glossary – EN/PL](glossary.md)
 
