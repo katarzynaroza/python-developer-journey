@@ -1,26 +1,44 @@
-# 🌱 Rozwój talentów Gallupa podczas kursu Python Developer
+# 🌱 Gallup Talent Reflections
 
-## 🔧 Naprawianie (Restorative)
-- Szukam błędów w kodzie i próbuję je rozwiązać samodzielnie
-- Uczę się debugowania i testowania
-- Prowadzę dziennik napraw: co było problemem, jak go rozwiązałam
+This file is for weekly reflections on how I’ve used my Gallup strengths in learning and work. It helps me build self-awareness, develop my talents, and plan for intentional growth.
 
-## 🤝 Zgodność (Harmony)
-- Ćwiczę komunikację techniczną (README, komentarze)
-- Formułuję feedback w sposób konstruktywny — nawet dla siebie
-- Szukam rozwiązań, które są spójne i klarowne
+---
 
-## 🌱 Rozwijanie innych (Developer – wersja solo)
-- Tworzę notatki, ściągi, checklisty — nawet jeśli tylko dla siebie
-- Udostępniam rozwiązania na GitHubie
-- Dokumentuję swoją naukę z myślą: „Ktoś kiedyś może z tego skorzystać — nawet ja”
+## 📅 Week of: [insert date, e.g. 2025-08-15]
 
-## 🔗 Współzależność (Connectedness)
-- Analizuję, jak różne części aplikacji się ze sobą łączą
-- Tworzę diagramy zależności, mapy myśli
-- Myślę systemowo: jak moja praca wpływa na całość
+### ✨ Which strengths showed up this week?
 
-## 🧭 Odpowiedzialność (Responsibility)
-- Biorę odpowiedzialność za zadania i terminy
-- Codziennie planuję zadania i monitoruję ich realizację
-- Komunikuję się jasno i terminowo — nawet w dokumentacji
+> Example: Restorative, Developer, Harmony
+
+---
+
+### 🔍 Reflection Questions
+
+- When did I feel most “in my element” this week?
+- Which tasks gave me the most satisfaction?
+- Did any strength help me solve a problem?
+- Did any strength make something harder?
+- How did my strengths influence collaboration or communication?
+- How can I use my strengths more intentionally next week?
+
+---
+
+### 🧠 My Observations
+
+> Write your thoughts freely here. For example:
+
+This week, my Restorative talent showed up while debugging a Django error. Instead of getting frustrated, I treated it like a puzzle. Developer was also active — I noticed my tests are more thoughtful than before.
+
+---
+
+### 🎯 Goals for Next Week
+
+- [ ] Use Connectedness to find patterns across topics
+- [ ] Volunteer for a code review to grow Responsibility
+- [ ] Pay attention to how Harmony helps me communicate calmly
+
+---
+
+## 📁 Reflection Archive
+
+> Add new weekly entries below using the same format.
