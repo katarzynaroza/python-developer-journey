@@ -1,30 +1,27 @@
-# 🐞 Bugfix Log
+# 🐞 Bugfix Log – Checklist Style
 
-Dziennik napraw błędów i problemów napotkanych podczas nauki i kodowania. Każdy wpis zawiera datę, opis problemu, sposób rozwiązania oraz ewentualne przemyślenia.
-
----
-
-## 📅 2025-08-12
-
-**Moduł:** Podstawy Pythona  
-**Problem:** Funkcja `greet()` zwracała `None` zamiast tekstu.  
-**Rozwiązanie:** Zapomniałam dodać `return` przed wartością. Po dodaniu `return f"Hello, {name}!"` wszystko działa poprawnie.  
-**Refleksja:** Czasem najprostsze błędy są najtrudniejsze do zauważenia. Warto sprawdzać, czy funkcja faktycznie coś zwraca.
+Dziennik naprawionych błędów z opisem problemu, rozwiązania i refleksji. Każdy wpis to osobne zadanie, które można „odhaczyć”.
 
 ---
 
-## 📅 2025-08-13
-
-**Moduł:** SQL Basics  
-**Problem:** Błąd składni SQL przy próbie wykonania zapytania `SELECT * FORM users;`  
-**Rozwiązanie:** Literówka – zamiast `FORM` powinno być `FROM`.  
-**Refleksja:** SQL nie wybacza literówek. Od teraz używam edytora z podpowiedziami składni.
+- [x] **2025-08-12 – greet() zwracało None**
+  - **Moduł:** Podstawy Pythona
+  - **Problem:** Funkcja nie zwracała wartości, brak `return`
+  - **Rozwiązanie:** Dodano `return f"Hello, {name}!"`
+  - **Refleksja:** Nawet proste błędy potrafią zająć czas — warto patrzeć na strukturę funkcji
 
 ---
 
-## 📅 [tu wpisz datę]
+- [x] **2025-08-13 – Literówka w SQL**
+  - **Moduł:** Podstawy SQL
+  - **Problem:** `SELECT * FORM users;` zamiast `FROM`
+  - **Rozwiązanie:** Poprawiono składnię
+  - **Refleksja:** SQL wymaga precyzji — zaczynam używać edytora z podpowiedziami
 
-**Moduł:** [np. Django REST Framework]  
-**Problem:** [Opisz, co nie działało]  
-**Rozwiązanie:** [Jak to naprawiłaś?]  
-**Refleksja:** [Czego się nauczyłaś?]
+---
+
+- [ ] **[tu wpisz datę i tytuł błędu]**
+  - **Moduł:** [np. Django REST Framework]
+  - **Problem:** [Co nie działało?]
+  - **Rozwiązanie:** [Jak to naprawiłaś?]
+  - **Refleksja:** [Czego się nauczyłaś?]
