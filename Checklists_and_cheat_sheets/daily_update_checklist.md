@@ -1,20 +1,36 @@
 # ✅ Daily Update Checklist
 
-Use this checklist to stay consistent and intentional with your learning journey.
+Use this checklist to stay consistent and intentional — without overwhelming your learning time.
 
-## Every Day
+## 🗓️ Every Day (15–20 min max)
 
-- [ ] 📓 Add a short entry to the [Learning Journal](../learning_journal.md)
-- [ ] 🐞 Log any bugs or issues in [Bugfix Log](../bugfix_log.md)
-- [ ] 📚 Update notes in the current module folder (e.g. `03_python_extended/`)
-- [ ] 💡 Add new insights or questions to [Mentor Questions](../mentor_questions.md)
-- [ ] 🌱 Reflect on Gallup talents — did I use any today?
-- [ ] 🧠 Add new terms to [Glossary](../glossary.md)
-- [ ] 🧾 Update or create a new cheat sheet if I learned something reusable
+- [ ] 📚 **Update notes in the current module folder**  
+  _Main place for documenting what you learned today (e.g. `03_python_extended/`)_
 
-## Weekly (e.g. Sunday Review)
+- [ ] 🗒️ **Add a short reflection at the end of module notes**  
+  _1–2 sentences: What clicked today? What was hard?_
 
-- [ ] 🔁 Review past journal entries
-- [ ] 📈 Check progress in course modules
-- [ ] 🧭 Adjust learning goals or focus areas
-- [ ] 🤝 Reach out for feedback or mentoring
+- [ ] 🐞 **Log bugs or issues (only if relevant)**  
+  _Update `bugfix_log.md` if you debugged something_
+
+- [ ] 💡 **Add new mentor questions (if any)**  
+  _Update `mentor_questions.md` only when something puzzles you_
+
+## 🌱 Weekly (e.g. every Friday)
+
+- [ ] 🌱 **Reflect on Gallup talents**  
+  _Did you use any strengths this week? Add to `gallup_reflections.md`_
+
+- [ ] 🧠 **Update Glossary**  
+  _Add new terms from the week to `glossary.md`_
+
+- [ ] 🧾 **Create or update cheat sheets**  
+  _Only if you learned something reusable or worth summarizing_
+
+---
+
+💡 **Tip:** You can merge your daily reflection directly into your module notes like this:
+
+```markdown
+## 🗓️ Daily Reflection – 2025-08-12
+Dziś ćwiczyłam list comprehensions. Początkowo były nieintuicyjne, ale po kilku przykładach zaczęłam je rozumieć.
