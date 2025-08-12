@@ -1,28 +1,41 @@
-🧾 Python Basics Cheat Sheet
+# 🧾 Python Basics Cheat Sheet
 
 Quick reference for Python fundamentals.
 
-Variables
+---
 
-`python
+## 🧠 Variables
+
+```python
 name = "Alice"
 age = 30
 is_active = True
-`
 
-Data Types
+---
 
-- int, float, str, bool, list, dict, tuple, set
+📦 Data Types
 
-Lists
+- int
+- float
+- str
+- bool
+- list
+- dict
+- tuple
+- set
 
-`python
+---
+
+🍇 Lists
+
 fruits = ["apple", "banana"]
 fruits.append("orange")
 print(fruits[0])  # apple
-`
 
-Loops
+
+---
+
+🔁 Loops
 
 `python
 for item in fruits:
@@ -32,14 +45,18 @@ while age > 0:
     age -= 1
 `
 
-Functions
+---
+
+🧩 Functions
 
 `python
 def greet(name):
     return f"Hello, {name}!"
 `
 
-Conditionals
+---
+
+🔍 Conditionals
 
 `python
 if age > 18:
@@ -50,6 +67,15 @@ else:
     print("Minor")
 `
 
-Useful Built-ins
+---
 
-- len(), type(), range(), print(), input()
+🛠️ Useful Built-ins
+
+- len()
+- type()
+- range()
+- print()
+- input()
+`
+
+---
