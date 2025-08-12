@@ -17,11 +17,11 @@ It's part of my learning process and helps me track progress and mistakes.
 
 example:
 
-## 🐞 Błąd: TypeError: 'NoneType' object is not subscriptable
+## 🐞 Bug: TypeError when adding to list
 
-- 🎓 Moduł kursu: Flask – routing
-- 📁 Plik źródłowy: app.py
-- ❌ Problem: Po uruchomieniu aplikacji i wejściu na stronę /user/Anna, pojawiał się błąd zamiast danych użytkownika.
-- 🔍 Przyczyna: Funkcja `get_user()` zwracała `None`, bo użytkownik nie był znaleziony w bazie, a mimo to próbowałam odczytać `user['name']`.
-- ✅ Rozwiązanie: Dodałam warunek `if user is None:` i przekierowanie na stronę błędu.
-- 💡 Lekcja: Zawsze sprawdzaj, czy obiekt istnieje, zanim spróbujesz go użyć. Python nie wybacza nadziei 😉
+- 🎓 Course module: Python Basics – Data Structures  
+- 📁 Source file: list_utils.py  
+- ❌ Problem: Attempting to add `None` to a list caused a TypeError  
+- 🔍 Cause: The function returned `None` because it was missing a `return` statement  
+- ✅ Fix: Added `return new_item` at the end of the function  
+- 💡 Lesson: A function without `return` returns `None` — always check what your function gives back
