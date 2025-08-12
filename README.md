@@ -1,7 +1,10 @@
 # 🐍 Python Developer Journey
 
 Hi there! 👋  
-This repository documents my learning journey as a Python developer during an online course. I combine technical growth with personal development — especially through Gallup strengths.
+This repository documents my learning journey as a Python developer during an online course.  
+I combine technical growth with personal development — especially through Gallup strengths.
+
+---
 
 ## 📌 What's inside?
 
@@ -10,10 +13,16 @@ This repository documents my learning journey as a Python developer during an on
 - Learning journal
 - Gallup talents development plan
 - Mentor question guide
+- Bugfix log with real coding issues
+- Glossary of technical terms (EN–PL)
+
+---
 
 ## 🎯 Goal
 
 To build a solid portfolio, grow as a developer, and create value that might help others — even if I don't know them yet.
+
+---
 
 ## 🧠 Gallup Talents
 
@@ -23,6 +32,8 @@ My top 5 strengths:
 - Developer (solo version)
 - Connectedness
 - Responsibility
+
+---
 
 ## 🛠️ Technologies Covered
 
@@ -37,13 +48,19 @@ My top 5 strengths:
 - ORM (Django models)
 - Networking fundamentals
 
+---
+
 ## 📚 Development Resources
 
 - [Talents Development Plan](talents_plan.md)
 - [Mentor Questions](mentor_questions.md)
 - [Learning Journal](learning_journal.md)
+- [Bugfix Log](bugfix_log.md)
+- [Glossary – EN/PL](glossary.md)
 
-## 📚 Course Modules
+---
+
+## 🎓 Course Modules
 
 - [Python Basics](01_python_basics/)
 - [Generative AI Intro](02_gen_ai_intro/)
@@ -61,6 +78,8 @@ My top 5 strengths:
 - [JavaScript Basics](14_js_basics/)
 - [Python for Data Analysis](15_python_data_analysis/)
 - [Job Hunting](16_job_hunting/)
+
+---
 
 ## 📬 Contact
 
