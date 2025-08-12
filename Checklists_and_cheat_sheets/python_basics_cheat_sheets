@@ -15,14 +15,33 @@ is_active = True
 
 📦 Data Types
 
-- int
-- float
-- str
-- bool
-- list
-- dict
-- tuple
-- set
+# Integer
+age = 30
+
+# Float
+height = 1.75
+
+# String
+name = "Alice"
+
+# Boolean
+is_active = True
+
+# List
+fruits = ["apple", "banana", "orange"]
+
+# Dictionary
+user = {
+    "name": "Alice",
+    "age": 30,
+    "is_active": True
+}
+
+# Tuple
+coordinates = (10.5, 20.3)
+
+# Set
+unique_numbers = {1, 2, 3, 3, 2}  # duplicates removed
 
 ---
 
