@@ -1,0 +1,35 @@
+✅ Dobre praktyki commitów dla plików Markdown (.md)
+
+🔹 Styl commitów
+
+| Typ zmiany | Dobry commit message |
+|------------|----------------------|
+| 📄 Dodanie nowego pliku | Add talents_plan.md with initial Gallup strategy |
+| ✏️ Edycja treści | Update mentor_questions.md with new reflection prompts |
+| 🧹 Poprawki | Fix formatting in talents_plan.md |
+| 🗑️ Usunięcie pliku | Remove outdated mentor_questions.md |
+
+🔹 Zasady
+
+- Używaj czasowników w trybie rozkazującym: Add, Update, Fix, Remove
+- Bądź konkretny: co zmieniasz i w którym pliku
+- Unikaj ogólników: zamiast Update docs, napisz Update talents_plan.md with SMART goals
+
+📝 Co wpisać w commit message przy dodaniu folderu miniproject1
+
+✅ Propozycje commitów:
+
+| Co zrobiłaś | Dobry commit message |
+|-------------|----------------------|
+| Dodałaś folder z projektem | Add miniproject1 folder with initial structure |
+| Dodałaś tylko README.md | Add README.md for miniproject1 |
+| Rozpoczęłaś projekt API | Start miniproject1: Task Manager API |
+| Wrzuciłaś pliki kodu | Add app.py and requirements.txt for miniproject1 |
+
+---
+
+✨ Dobre praktyki
+
+- Używaj czasowników: Add, Update, Fix, Remove
+- Bądź konkretna: co dodałaś i gdzie
+- Nie pisz ogólników: zamiast Update files, napisz Add initial files for miniproject1
