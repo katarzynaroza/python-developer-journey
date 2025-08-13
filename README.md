@@ -79,6 +79,15 @@ Zasada: jakość > ilość. Możesz:
 | Sobota | Odpoczynek / lekka nauka | — | — |
 | Niedziela | Refleksja tygodniowa | Podsumowanie tygodnia | Commit: README update |
 
+🧾 Co oznacza „GitHub: commit – zadanie”?
+
+W tej kolumnie chodzi o to, co możesz wrzucić na GitHub danego dnia, czyli jaki commit (zmiana w repozytorium) warto zrobić. Przykłady:
+
+- „Commit: zadanie” – wrzucasz plik z rozwiązanym zadaniem z kursu, np. loops.py, functions.py, sql_queries.sql
+- „Commit: poprawki” – wrzucasz poprawioną wersję kodu, np. po debugowaniu
+- „Commit: mini-projekt” – wrzucasz cały folder z projektem, np. todo-api/
+- „Commit: README update” – aktualizujesz plik README.md, np. dodajesz roadmapę, refleksję tygodniową, linki do projektów
+
 ---
 
 🧘‍♀️ Na koniec: Twoja produktywność to nie tempo — to rytm
