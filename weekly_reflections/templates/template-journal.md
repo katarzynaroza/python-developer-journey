@@ -1,19 +1,35 @@
-SHORT INSTRUCTION AND EXAMPLE:
+## 📅 Data: YYYY-MM-DD
 
-## 2025-08-12
+### 🔍 Co dziś zrobiłam?
+Krótko opisz, co konkretnie przerobiłaś, przeczytałaś, napisałaś lub przetestowałaś.
 
-- Przerobiłam lekcję o JSON
-- Naprawiłam błąd z `json.loads()`
-- Zrozumiałam różnicę między `load()` a `loads()`
-- Debugowanie było trudne, ale satysfakcjonujące
+---
 
-- 🧠 Jak sobie ułatwić analizę postępów?
+### 💡 Co mnie zaskoczyło / zaciekawiło?
+Czy było coś nowego, dziwnego, inspirującego?
 
-Zamiast głębokiej analizy, możesz zadawać sobie jedno pytanie dziennie:
+---
 
-- Co dziś zrobiłam?
-- Co mnie zaskoczyło?
-- Czy coś było trudne?
-- Czy coś mnie ucieszyło?
+### 🧠 Czego się nauczyłam?
+Jedno zdanie o tym, co zapamiętasz z dzisiejszego dnia.
 
-----
+---
+
+### 🧩 Co było trudne / co chcę powtórzyć?
+Zapisz błąd, wątpliwość, coś do powtórki — to pomaga w nauce!
+
+---
+
+### 😊 Co mnie ucieszyło / dało satysfakcję?
+Zauważ małe sukcesy — to buduje motywację.
+
+---
+
+### 🔖 Tagi / tematy:
+`#python #debugging #list-comprehension`  
+Dodaj 2–3 słowa kluczowe, żeby łatwiej było wracać do wpisów.
+
+---
+
+### 🧘‍♀️ Refleksja (opcjonalnie):
+Jak dzisiejszy dzień wpisuje się w mój rozwój? Czy widzę jakąś zależność, wzorzec, sens?
