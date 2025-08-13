@@ -6,10 +6,9 @@ This guide helps me remember what to write, where to write it, and why — so I 
 
 ## 🗓️ Daily Workflow
 
-### 📓 Journal (`weekly_reflections/week-XX/journal.md`)
+### 📓 Journal (`weekly_reflections/2025/08/week-XX/journal.md`)
 Use after learning session (5–10 min)
 
-**Questions to answer:**
 - Co dziś zrobiłam?
 - Co mnie zaskoczyło?
 - Czy coś było trudne?
@@ -20,10 +19,9 @@ Use after learning session (5–10 min)
 
 ---
 
-### 🐞 Debug Diary (`weekly_reflections/week-XX/debug-diary.md`)
+### 🐞 Debug Diary (`weekly_reflections/2025/08/week-XX/debug-diary.md`)
 Use when I encounter a bug or mistake
 
-**Structure:**
 - Co się zepsuło?
 - Jakie emocje się pojawiły?
 - Jak to rozwiązałam?
@@ -34,12 +32,28 @@ Use when I encounter a bug or mistake
 
 ---
 
+## 📅 Weekly Workflow
+
+### 🧠 Weekly Summary (`weekly_reflections/2025/08/week-XX/weekly-summary.md`)
+Use once a week (Sunday or Monday)
+
+- Refleksja na podstawie talentów Gallupa  
+- Najważniejsze wydarzenia tygodnia  
+- Linki do commitów lub projektów
+
+✅ Głębsza analiza i podsumowanie  
+❌ Nie kopiuję dziennika ani błędów
+
+### 📘 Weekly Reflections Guide  
+See full instructions [here](weekly_reflections/README.md)
+
+---
+
 ## 🐍 Mate Academy Tasks (`mate-academy-tasks/`)
 Use when I finish a meaningful exercise
 
-**What to include:**
-- Kod zadania
-- Krótki komentarz techniczny (np. co było trudne, co poprawiłam)
+- Kod zadania  
+- Krótki komentarz techniczny  
 - Tylko wybrane zadania — nie wszystko
 
 ✅ Kod + techniczna refleksja  
@@ -50,9 +64,8 @@ Use when I finish a meaningful exercise
 ## 🛠️ Projects (`projects/`)
 Use for larger, standalone projects
 
-**What to include:**
-- Cały folder projektu
-- Plik `README.md` z opisem
+- Cały folder projektu  
+- Plik `README.md` z opisem  
 - Kod, testy, dokumentacja
 
 ✅ Portfolio-ready work  
@@ -60,27 +73,11 @@ Use for larger, standalone projects
 
 ---
 
-## 📅 Weekly Workflow
-
-### 🧠 Weekly Summary (`weekly_reflections/week-XX/weekly-summary.md`)
-Use once a week (Sunday or Monday)
-
-**What to include:**
-- Refleksja na podstawie talentów Gallupa
-- Najważniejsze wydarzenia tygodnia
-- Linki do commitów lub projektów
-
-✅ Głębsza analiza i podsumowanie  
-❌ Nie kopiuję dziennika ani błędów
-
----
-
-### 🗺️ Roadmap (`roadmap.md`)
+## 🗺️ Roadmap (`roadmap.md`)
 Use once a week (Sunday)
 
-**What to include:**
-- Zaktualizowane moduły kursu
-- Cele tygodniowe
+- Zaktualizowane moduły kursu  
+- Cele tygodniowe  
 - Projekty w toku
 
 ✅ Plan działania  
