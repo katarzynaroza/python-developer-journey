@@ -1,38 +1,48 @@
-## 📅 Tydzień XX – Podsumowanie
+## 🗓️ Weekly Summary — YYYY-MM-DD to YYYY-MM-DD
 
-### 🔧 Restorative
-- Najtrudniejszy błąd, który rozwiązałam:
-- Co mnie zaskoczyło w analizie przyczyn?
-- Czy debugging mnie energetyzował czy frustrował?
+### 🔧 RESTORATIVE – rozwiązywanie problemów
+- Jakie trudności napotkałam i jak sobie z nimi poradziłam?  
+- Czy coś mnie frustrowało, ale udało się to naprawić?  
+- Czy znalazłam lepszy sposób na coś, co wcześniej sprawiało kłopot?
 
-### 🤝 Harmony
-- Czy moje komunikaty (README, komentarze) były jasne?
-- Jak zadbałam o równowagę i spokój w pracy?
-- Czy unikałam niepotrzebnych napięć?
+---
 
-### 🌱 Developer
-- Jakie zasoby stworzyłam?
-- Co udostępniłam innym (GitHub, blog)?
-- Co chciałabym wiedzieć tydzień temu?
+### 🤝 HARMONY – szukanie spójności
+- Co w tym tygodniu przebiegło spokojnie i bez napięć?  
+- Czy udało mi się uniknąć konfliktu lub napięcia — nawet wewnętrznego?  
+- Czy coś w moim rytmie nauki było harmonijne?
 
-### 🔗 Connectedness
-- Jakie zależności w systemie zauważyłam?
-- Czy moje rozwiązania były spójne z całością?
-- Jakie wzorce zaczynam dostrzegać?
+---
 
-### 🧭 Responsibility
-- Czy zrealizowałam swoje cele?
-- Jak wyglądała moja konsekwencja?
-- Czy działałam zgodnie z własnymi wartościami?
+### 🎯 RESPONSIBILITY – poczucie obowiązku
+- Jakie zobowiązania wobec siebie dotrzymałam?  
+- Czy zrobiłam coś, co obiecałam sobie lub komuś innemu?  
+- Czy był moment, w którym wzięłam odpowiedzialność i to się opłaciło?
 
-### ✨ Ogólna refleksja
-- Co było największym sukcesem tygodnia?
-- Co chcę poprawić w kolejnym tygodniu?
-- Co było najtrudniejsze w tym tygodniu?
-- Co mnie najbardziej zmotywowało?
-- Jakie umiejętności backendowe rozwijałam?
-- Z czego jestem najbardziej dumna?
-- Co chcę poprawić w przyszłym tygodniu?
-- Jak moje talenty pomogły mi w nauce?
-- Jak się dziś czuję z moją drogą rozwoju?
-- 
+---
+
+### 🌱 DEVELOPER – rozwój innych i siebie
+- Jakie małe postępy zauważyłam u siebie?  
+- Czy coś, co kiedyś było trudne, teraz przychodzi łatwiej?  
+- Czy mogłabym komuś przekazać to, czego się nauczyłam?
+
+---
+
+### 🔗 CONNECTEDNESS – widzenie sensu i zależności
+- Czy coś, czego się uczę, ma głębszy sens dla mnie lub świata?  
+- Czy zauważyłam zależność między różnymi tematami?  
+- Czy coś mnie poruszyło lub przypomniało mi, dlaczego to robię?
+
+---
+
+### 🎯 Cele na przyszły tydzień:
+- ...
+- ...
+- ...
+
+---
+
+### 🔖 Tagi tygodnia:
+`#python #growth #reflection #talents`
+
+ps. wybrać 2-3 pytania
