@@ -1,10 +1,12 @@
-# 🧭 Repo Guide – How I Use This Repository
+# 📘 Repo Guide – How I Use This Repository
 
 This guide helps me remember what to write, where to write it, and why — so I can focus on learning, not memorizing rules.
 
 ---
 
-## 📓 Daily Journal (`weekly-reflections/week-XX/journal.md`)
+## 🗓️ Daily Workflow
+
+### 📓 Journal (`weekly_reflections/week-XX/journal.md`)
 Use after learning session (5–10 min)
 
 **Questions to answer:**
@@ -18,7 +20,7 @@ Use after learning session (5–10 min)
 
 ---
 
-## 🐞 Debug Diary (`weekly-reflections/week-XX/debug-diary.md`)
+### 🐞 Debug Diary (`weekly_reflections/week-XX/debug-diary.md`)
 Use when I encounter a bug or mistake
 
 **Structure:**
@@ -45,27 +47,67 @@ Use when I finish a meaningful exercise
 
 ---
 
-## 🔁 Jak to rozdzielić?
+## 🛠️ Projects (`projects/`)
+Use for larger, standalone projects
 
-| Jeśli...                              | Wpisz do...                  |
-|--------------------------------------|------------------------------|
-| Zadanie było ciekawe technicznie     | `mate-academy-tasks/`        |
-| Pojawił się błąd i emocje            | `debug-diary.md`             |
-| Chcesz podsumować dzień              | `journal.md`                 |
+**What to include:**
+- Cały folder projektu
+- Plik `README.md` z opisem
+- Kod, testy, dokumentacja
 
----
-
-## 🧘‍♀️ Pro tip
-
-Nie muszę pisać wszędzie.  
-Wystarczy jedno zdanie w każdym miejscu, jeśli czuję, że warto.  
-Ten system ma mnie wspierać — nie kontrolować.
+✅ Portfolio-ready work  
+❌ Nie wrzucam eksperymentów ani szkiców
 
 ---
 
-## 📍 Related Files
+## 📅 Weekly Workflow
 
-- [README.md](README.md) – overview of my learning system  
-- [roadmap.md](roadmap.md) – weekly goals and daily rhythm  
-- `weekly-reflections/week-XX/` – journal, debug diary, weekly summary  
-- `mate-academy-tasks/` – selected exercises with code
+### 🧠 Weekly Summary (`weekly_reflections/week-XX/weekly-summary.md`)
+Use once a week (Sunday or Monday)
+
+**What to include:**
+- Refleksja na podstawie talentów Gallupa
+- Najważniejsze wydarzenia tygodnia
+- Linki do commitów lub projektów
+
+✅ Głębsza analiza i podsumowanie  
+❌ Nie kopiuję dziennika ani błędów
+
+---
+
+### 🗺️ Roadmap (`roadmap.md`)
+Use once a week (Sunday)
+
+**What to include:**
+- Zaktualizowane moduły kursu
+- Cele tygodniowe
+- Projekty w toku
+
+✅ Plan działania  
+❌ Nie opisuję emocji ani błędów
+
+---
+
+## 🔁 How to Decide Where to Write
+
+| If...                                | Write in...                   |
+|-------------------------------------|-------------------------------|
+| Zadanie było ciekawe technicznie    | `mate-academy-tasks/`         |
+| Pojawił się błąd i emocje           | `debug-diary.md`              |
+| Chcesz podsumować dzień             | `journal.md`                  |
+| Tworzysz większy projekt            | `projects/`                   |
+| Robisz tygodniowe podsumowanie      | `weekly-summary.md`           |
+| Planujesz naukę i cele              | `roadmap.md`                  |
+
+---
+
+## 🧘‍♀️ Minimal Commitment Principle
+
+I keep things light and sustainable:
+
+- 🗓️ **Daily**: fill out `journal.md` (5–10 min)  
+- 🐞 **When needed**: update `debug-diary.md` (10 min)  
+- 📅 **Weekly**: write `weekly-summary.md` + update `roadmap.md` (30 min)  
+- 🛠️ **Projects & tasks**: upload only selected, meaningful work
+
+> My system is smart, not heavy — it's a tool, not a burden.
