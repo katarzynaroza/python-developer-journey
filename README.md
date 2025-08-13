@@ -1,13 +1,25 @@
-# my-python-journey
+# My Python Journal – A Backend Developer's Journey Powered by Gallup Talents
 
-To repozytorium dokumentuje moją ścieżkę nauki backendu w Pythonie, w ramach kursu Mate Academy. Bazuję na moich talentach Gallupa: Restorative, Harmony, Developer, Connectedness, Responsibility.
+This repository documents my personal journey of becoming a backend developer with Python, Django, and REST APIs — guided not only by technical milestones, but also by my unique strengths and personality.
 
-Cele:
-- Rozwijać umiejętności backendowe krok po kroku
-- Dokumentować błędy i lekcje (Restorative)
-- Tworzyć jasne, konstruktywne zasoby (Harmony & Developer)
-- Rozumieć zależności w systemach (Connectedness)
-- Uczyć się konsekwentnie i z zaangażowaniem (Responsibility)
+As a **melancholic virtuoso (ISTP)** with Gallup talents in:
+- 🔧 **Restorative (Naprawianie)** – solving problems and debugging with persistence
+- 🤝 **Harmony (Zgodność)** – fostering clarity and calm in communication
+- 🧭 **Responsibility (Odpowiedzialność)** – staying consistent and committed to growth
+- 🌱 **Developer (Rozwijanie innych)** – sharing knowledge and supporting others
+- 🔗 **Connectedness (Współzależność)** – seeing patterns, relationships, and the bigger picture in systems
+
+I approach learning with depth, structure, and a desire to grow through reflection and contribution.
+
+Here you'll find:
+- 🧠 Daily journals and debugging diaries
+- 🗺️ Weekly summaries aligned with my talents
+- 🛠️ Projects and exercises from my Mate Academy course
+- 🌱 Reflections on emotional and cognitive growth
+
+This is more than a coding repo — it's a map of how I learn, solve problems, and evolve as a developer and a person.
+
+---
 
 INSTRUKCJA:
 
