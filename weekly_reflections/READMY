@@ -1,0 +1,41 @@
+# 🧠 Weekly Reflections – How I Track My Growth
+
+This folder contains my weekly documentation of learning, emotions, and progress as a backend developer.
+
+---
+
+## 📁 Structure
+
+- `2025/` → year folders  
+  - `08/week-01/` → daily journal, debug diary, weekly summary  
+- `templates/` → reusable templates for each file  
+- `mentor-questions.md` → optional notes from mentor conversations
+
+---
+
+## 🗓️ How I Use It
+
+### 🔹 Daily
+- Fill out `journal.md` (5–10 min)  
+- Update `debug-diary.md` if a bug or challenge occurred (10 min)
+
+### 🔹 Weekly
+- Write `weekly-summary.md` (30 min)  
+- Reflect using Gallup talents  
+- Link to key commits or lessons
+
+### 🔹 Templates
+Reusable formats are stored in [`templates/`](templates/)  
+I copy them into each new week folder as needed.
+
+---
+
+## ✨ Why It Matters
+
+This system helps me:
+- Track emotional and technical growth  
+- Learn from mistakes with empathy  
+- Stay aligned with my strengths and values  
+- Build a rhythm that supports long-term development
+
+> I reflect to grow — not to judge. This folder is my space for clarity, learning, and self-kindness.
