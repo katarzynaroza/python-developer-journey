@@ -1,4 +1,4 @@
-# Nauka Backend – Python
+# my-python-journey
 
 To repozytorium dokumentuje moją ścieżkę nauki backendu w Pythonie, w ramach kursu Mate Academy. Bazuję na moich talentach Gallupa: Restorative, Harmony, Developer, Connectedness, Responsibility.
 
