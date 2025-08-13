@@ -81,24 +81,18 @@ Zasada: jakość > ilość. Możesz:
 
 🗓️ Przykładowy tygodniowy rytm (przy 3h dziennie)
 
-| Dzień | Nauka | Dokumentacja | GitHub |
-|-------|-------|--------------|--------|
-| Poniedziałek | Kurs + kod | Journal + debug | Commit: zadanie |
-| Wtorek | Projekt | Journal | — |
-| Środa | Kurs | Journal + debug | Commit: poprawki |
-| Czwartek | Projekt | Journal | — |
-| Piątek | Powtórka | Journal | Commit: mini-projekt |
-| Sobota | Odpoczynek / lekka nauka | — | — |
-| Niedziela | Refleksja tygodniowa | Podsumowanie tygodnia | Commit: README update |
+| Plik | Funkcja | Częstotliwość | Zawartość |
+|------|---------|----------------|-----------|
+| README.md | Instrukcja repozytorium | raz na tydzień (przypomnienie) | Opis, talenty, rytm tygodnia, linki |
+| roadmap.md | Cele i postępy | raz na tydzień (aktualizacja) | Moduły kursu, projekty, cele tygodniowe |
+| weekly-reflections/week-XX/weekly-summary.md | Głęboka refleksja | raz na tydzień (niedziela) | Pytania Gallupa, emocje, sukcesy, lekcje |
+| weekly-reflections/week-XX/journal.md | Codzienne notatki | codziennie (5–10 min) | Co zrobiłam, co mnie zaskoczyło itd. |
+| weekly-reflections/week-XX/debug-diary.md | Rejestr błędów | codziennie lub wg potrzeby | Błędy, emocje, lekcje, status |
 
-🧾 Co oznacza „GitHub: commit – zadanie”?
+🔄 Dodatkowe objaśnienie 
 
-W tej kolumnie chodzi o to, co możesz wrzucić na GitHub danego dnia, czyli jaki commit (zmiana w repozytorium) warto zrobić. Przykłady:
-
-- „Commit: zadanie” – wrzucasz plik z rozwiązanym zadaniem z kursu, np. loops.py, functions.py, sql_queries.sql
-- „Commit: poprawki” – wrzucasz poprawioną wersję kodu, np. po debugowaniu
-- „Commit: mini-projekt” – wrzucasz cały folder z projektem, np. todo-api/
-- „Commit: README update” – aktualizujesz plik README.md, np. dodajesz roadmapę, refleksję tygodniową, linki do projektów
+- weekly-summary.md to refleksja emocjonalna i poznawcza — bardzo ważna dla Twojej osobowości i talentów.
+- roadmap.md to plan działania — bardziej techniczny, zadaniowy, zorientowany na postęp.
 
 ---
 
