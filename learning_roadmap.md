@@ -8,12 +8,12 @@ This roadmap tracks my progress through the Mate Academy backend course, persona
 - Wprowadzenie do kursu
 - Podstawy Pythona
 - Generatywna SI – podstawy
-- Git i Terminal
 
 ## 🔄 In Progress
 - Rozszerzone podstawy Pythona
 
 ## ⏳ Upcoming Modules
+- Git i Terminal
 - Python – moduł zasadniczy
 - Podstawy SQL
 - ORM z Django
