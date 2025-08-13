@@ -1,0 +1,38 @@
+## 📅 Tydzień XX – Podsumowanie
+
+### 🔧 Restorative
+- Najtrudniejszy błąd, który rozwiązałam:
+- Co mnie zaskoczyło w analizie przyczyn?
+- Czy debugging mnie energetyzował czy frustrował?
+
+### 🤝 Harmony
+- Czy moje komunikaty (README, komentarze) były jasne?
+- Jak zadbałam o równowagę i spokój w pracy?
+- Czy unikałam niepotrzebnych napięć?
+
+### 🌱 Developer
+- Jakie zasoby stworzyłam?
+- Co udostępniłam innym (GitHub, blog)?
+- Co chciałabym wiedzieć tydzień temu?
+
+### 🔗 Connectedness
+- Jakie zależności w systemie zauważyłam?
+- Czy moje rozwiązania były spójne z całością?
+- Jakie wzorce zaczynam dostrzegać?
+
+### 🧭 Responsibility
+- Czy zrealizowałam swoje cele?
+- Jak wyglądała moja konsekwencja?
+- Czy działałam zgodnie z własnymi wartościami?
+
+### ✨ Ogólna refleksja
+- Co było największym sukcesem tygodnia?
+- Co chcę poprawić w kolejnym tygodniu?
+- Co było najtrudniejsze w tym tygodniu?
+- Co mnie najbardziej zmotywowało?
+- Jakie umiejętności backendowe rozwijałam?
+- Z czego jestem najbardziej dumna?
+- Co chcę poprawić w przyszłym tygodniu?
+- Jak moje talenty pomogły mi w nauce?
+- Jak się dziś czuję z moją drogą rozwoju?
+- 
