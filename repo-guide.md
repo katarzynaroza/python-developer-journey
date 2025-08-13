@@ -1,4 +1,4 @@
-# 🧭 Workflow Guide – How I Use This Repository
+# 🧭 Repo Guide – How I Use This Repository
 
 This guide helps me remember what to write, where to write it, and why — so I can focus on learning, not memorizing rules.
 
