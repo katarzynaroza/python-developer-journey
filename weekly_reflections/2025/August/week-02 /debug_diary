@@ -1,6 +1,0 @@
-📅 2025-08-13
-Błąd: Zapomniałam dodać self w metodzie klasy
-Emocje: Frustracja, bo nie rozumiałam komunikatu błędu
-Rozwiązanie: Przeczytałam dokumentację i zrobiłam analogiczny przykład
-Lekcja: W klasach self to odniesienie do instancji — muszę o tym pamiętać
-Status: Zrozumiane ✅
