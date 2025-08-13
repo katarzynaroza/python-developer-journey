@@ -18,8 +18,10 @@ I approach learning with depth, structure, and a desire to grow through reflecti
 - 🧠 Daily journals and debugging diaries  
 - 🗺️ Weekly summaries aligned with my talents  
 - 🛠️ Projects and exercises from my Mate Academy course  
+- 🐍 Selected tasks with technical reflections  
 - 🌱 Reflections on emotional and cognitive growth  
-- 📍 My full learning roadmap and daily rhythm [here](roadmap.md)
+- 📍 My full learning roadmap and daily rhythm [here](roadmap.md)  
+- 📘 My personal repo guide [here](repo-guide.md)
 
 This is more than a coding repo — it's a map of how I learn, solve problems, and evolve as a developer and a person.
 
@@ -39,7 +41,16 @@ To stay consistent and avoid overwhelm, I follow a structured but flexible rhyth
 - I optionally reflect, plan, or update GitHub (support blocks)  
 - I document errors in `debug-diary.md` and thoughts in `journal.md`
 
-> I don’t aim for perfection — I aim for rhythm. I allow myself to adapt, reflect, and grow at my own pace.
+### 🔹 Minimal Commitment Principle
+
+I keep things light and sustainable:
+
+- 🗓️ **Daily**: fill out `journal.md` (5–10 min)  
+- 🐞 **When needed**: update `debug-diary.md` (10 min)  
+- 📅 **Weekly**: write `weekly-summary.md` + update `roadmap.md` (30 min)  
+- 🛠️ **Projects & tasks**: upload only selected, meaningful work
+
+> My system is smart, not heavy — it's a tool, not a burden.
 
 ---
 
