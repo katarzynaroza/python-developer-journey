@@ -57,6 +57,18 @@ To stay consistent and avoid overwhelm, I follow a structured but flexible rhyth
 
 ---
 
+### 📦 What GitHub Activity Entries Mean
+
+| Entry in Table           | What You Do on GitHub |
+|--------------------------|------------------------|
+| **Commit: task**         | Upload a course task file, e.g. `loops.py`, `functions.py`, `sql_queries.sql`  
+| **Commit: fixes**        | Upload a corrected version of code after debugging, e.g. `calculator.py` with comment “fixed bug in input handling”  
+| **Commit: mini-project** | Upload a full folder with a small project, e.g. `todo-api/`, `flask-notes/`, including a `README.md`  
+| **Commit: roadmap update** | Update `roadmap.md`, e.g. check off completed modules, add weekly goals  
+| **—**                    | No commit — focus on learning, documentation, or rest  
+
+---
+
 ## 🧘‍♀️ Final Note
 
 This system is designed to support my learning style, emotional rhythm, and long-term growth.  
