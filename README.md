@@ -37,8 +37,6 @@ To daje 1h dziennie na naukę + dokumentację, a pozostałe 2h możesz wykorzyst
 
 Po nauce, wypełnij tylko te 4 pytania w journalu:
 
-`markdown
-
 📓 Daily Journal – [data]
 - Co dziś zrobiłam?
 - Co mnie zaskoczyło?
