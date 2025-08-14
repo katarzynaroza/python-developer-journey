@@ -7,5 +7,5 @@ print(type(number1), type(number2))
 - can helps in debugging
 - useful to use with print(), when debugging.
 
-### 🔖 Tagi / tematy:
+### 🔖 Tags / topics:
 `#bugfix` 
