@@ -1,4 +1,4 @@
-# 📝 Task - use #type() to #bugix:
+# 📝 Task - use type() for debugging:
 
 print(type(number1), type(number2))
 
@@ -6,3 +6,6 @@ print(type(number1), type(number2))
 - helps to check data type of variable 
 - can helps in debugging
 - useful to use with print(), when debugging.
+
+### 🔖 Tagi / tematy:
+`#bugfix` 
