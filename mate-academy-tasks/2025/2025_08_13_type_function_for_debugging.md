@@ -8,4 +8,4 @@ print(type(number1), type(number2))
 - useful to use with print(), when debugging.
 
 # 🔖 Tags / topics:
-`TAG: bugfix` `TAG: type()` 
+`TAG: DEBUGGING | TAG: type()` 
