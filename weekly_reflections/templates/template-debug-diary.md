@@ -6,7 +6,7 @@ Każdy błąd to krok naprzód. Ten dziennik pomaga mi śledzić, czego się ucz
 
 - Dodawaj wpisy raz dziennie lub po każdym większym błędzie.
 - W tygodniowym podsumowaniu (reflection.md) możesz linkować do najważniejszych lekcji z tego pliku.
-- Możesz nawet stworzyć tagi (np. #SQL, #Django, #debug) jeśli chcesz później łatwo przeszukiwać.
+- Możesz nawet stworzyć tagi (np. #SQL, #Django, #bugfix) jeśli chcesz później łatwo przeszukiwać.
 
 ---
 
