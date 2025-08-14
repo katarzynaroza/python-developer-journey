@@ -1,4 +1,4 @@
-📝 Task - debugging with #type() function
+📝 Task - #debugging with #type() function
 print(type(number1), type(number2))
 
 💭 Technical reflection:
