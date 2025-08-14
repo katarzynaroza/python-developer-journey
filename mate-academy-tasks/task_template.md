@@ -9,5 +9,7 @@ def dodaj(a, b):
 - Dobrze działało po poprawce — warto testować funkcje od razu po napisaniu.
 
 # 🔖 Tags / topics:
-`#bugfix #refactoring`  
+`TAG: bugfix | TAG: refactoring`  
+
+
 Dodaj 2–3 słowa kluczowe, żeby łatwiej było wracać do wpisów.
