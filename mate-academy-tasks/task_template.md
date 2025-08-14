@@ -7,3 +7,7 @@ def dodaj(a, b):
 - Na początku zapomniałam dodać 'return', więc funkcja nie zwracała wyniku.
 - To przypomniało mi, że każda funkcja musi coś zwracać, jeśli ma dać rezultat.
 - Dobrze działało po poprawce — warto testować funkcje od razu po napisaniu.
+
+### 🔖 Tagi / tematy:
+`#bugfix #refactoring`  
+Dodaj 2–3 słowa kluczowe, żeby łatwiej było wracać do wpisów.
