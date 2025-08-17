@@ -1,0 +1,24 @@
+## 📅 Data: 2025-08-16
+
+### 🔍 Co dziś zrobiłam?
+Fix TypeError [see the code in my mate-academy-tasks](https://github.com/katarzynaroza/python-developer-journey/blob/main/mate-academy-tasks/2025/2025-08-16-max-num-and-None.md)
+
+---
+
+### 🧠 Czego się nauczyłam?
+None is a special value in Python meaning "no value." An empty list ([]) is a list that has no elements, but is still a list object. Examples:
+numbers = None → no list (e.g., no argument was passed)
+numbers = [] → the list exists but is empty
+
+Furthermore, I I understood the range function more broadly (explanatation in task)
+
+---
+
+### 🧩 Co było trudne / co chcę powtórzyć?
+debugging - but if I ask AI buddy about advices - it easier to go on. 
+
+---
+
+### 🔖 Tagi / tematy:
+`TAG: PYTHON | TAG: DEBUGGING | TAG: NONE | TAG: RANGE`  
+
