@@ -29,23 +29,23 @@ def find_max(numbers):
 
 # 📝 Task - The function should reverse a string (e.g., "Python" → "nohtyP"). For some reason, it only returns the first letter.
 
-def reverse_string(text):
-----reversed_text = ""  
-____for char in text:
---------reversed_text = char
-----return reversed_text
-
+def reverse_string(text):  
+----reversed_text = ""    
+____for char in text:  
+--------reversed_text = char  
+----return reversed_text  
+  
 👉 Test it on "Ala has a cat".
-
-
-RESULT:
-def reverse_string(text):
-    reversed_text = ""
-    for i in range(len(text) - 1, -1, -1):
-        reversed_text += text[i]
-    return reversed_text
-
-print(reverse_string("Ala ma kota"))
+  
+  
+RESULT:  
+def reverse_string(text):    
+    reversed_text = ""  
+    for i in range(len(text) - 1, -1, -1):  
+        reversed_text += text[i]  
+    return reversed_text  
+  
+print(reverse_string("Ala ma kota"))  
 
 # 💭 Technical reflection: 
 Zasada działania
