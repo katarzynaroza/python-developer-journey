@@ -20,4 +20,6 @@
 ### 🎯 Cele na przyszły tydzień:
 - make more excersises from my course of Python
 - it is better (if I have such possibility) to practice Python from the begging of the day (not in the evening).
-- repeat information after studies, before a dream, and next day before the lesson.
+- repeat information after studies, before a dream, and next day before the lesson (by looking for informations in my memory).
+- turn off my mobile, during studies.
+- turn on timer (for 45minutes to learn and have some breaks).
