@@ -23,3 +23,18 @@
 - repeat information after studies, before a dream, and next day before the lesson (by looking for informations in my memory).
 - turn off my mobile, during studies.
 - turn on timer (for 45minutes to learn and have some breaks).
+- ask my family not to talk to me during studies.
+- remember about my motivation - job from home, working with subject, in witch I am good, job with one task in time.
+- template of the day with AI: ask it to sort my task per a day with Eisenhower matrix (urgent, not urgent, important, unimportant): 
+<pre><pre> a) Important and urgent – do it now; </pre></pre>
+<pre><pre> b) Important but not urgent – schedule it;</pre></pre>
+<pre><pre> c) Urgent but not important – delegate it to someone else or limit it;</pre></pre>
+<pre><pre> d) Neither urgent nor important – cross it out without remorse.</pre></pre>
+- batching method in planning a day (not dishwashing during studing) - use deep focus. Limit switching between contexts.
+- stay flexible:  
+Having a bad day? Tired, stressed? It's normal. In times like these:  
+  
+<pre><pre>Review previous materials.</pre></pre>
+<pre><pre>Do something simpler that you already know.</pre></pre>
+<pre><pre>Join the Q&A, even if just for inspiration.</pre></pre>
+<pre><pre>📈 Remember: slow progress is still progress.</pre></pre>
