@@ -37,7 +37,7 @@ print(get_century(101))
 
 # 💭 Technical reflection: 
 - Try to use theory that is given by Mate Academy to the task
-- If I want to refactor a code, in group chat there is AI function for that.
+- If I want to ask about code in Mate Academy chat, there is speccial function to give a code block.
 
 # 🔖 Tags / topics:
 `TAG: REFACTOR`  
