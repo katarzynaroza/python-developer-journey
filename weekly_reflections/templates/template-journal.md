@@ -1,35 +1,35 @@
-## 📅 Data: YYYY-MM-DD
+## 📅 Date: YYYY-MM-DD
 
-### 🔍 Co dziś zrobiłam?
-Krótko opisz, co konkretnie przerobiłaś, przeczytałaś, napisałaś lub przetestowałaś.
-
----
-
-### 💡 Co mnie zaskoczyło / zaciekawiło?
-Czy było coś nowego, dziwnego, inspirującego?
+### 🔍 What have I done today?
+Briefly describe what specifically I have done, read, written or tested.
 
 ---
 
-### 🧠 Czego się nauczyłam?
-Jedno zdanie o tym, co zapamiętasz z dzisiejszego dnia.
+### 💡 What surprised/interested me?
+Was there anything new, strange, inspiring?
 
 ---
 
-### 🧩 Co było trudne / co chcę powtórzyć?
+### 🧠 What I learned?
+One sentence about what you will remember from today.
+
+---
+
+### 🧩 What was difficult/what do I want to repeat?
 Zapisz błąd, wątpliwość, coś do powtórki — to pomaga w nauce!
 
 ---
 
-### 😊 Co mnie ucieszyło / dało satysfakcję?
-Zauważ małe sukcesy — to buduje motywację.
+### 😊 What made me happy/satisfied?
+Notice small successes – it builds motivation.
 
 ---
 
-### 🔖 Tagi / tematy:
-`#python #debugging #list-comprehension`  
-Dodaj 2–3 słowa kluczowe, żeby łatwiej było wracać do wpisów.
+### 🔖 Tags / topics:
+`TAG: NAN | TAG: MIN`   
+Add 2-3 keywords to make it easier to return to your posts.
 
 ---
 
-### 🧘‍♀️ Refleksja (opcjonalnie):
-Jak dzisiejszy dzień wpisuje się w mój rozwój? Czy widzę jakąś zależność, wzorzec, sens?
+### 🧘‍♀️ Reflection (optional):
+How does today fit into my development? Do I see any connection, pattern, or meaning?
