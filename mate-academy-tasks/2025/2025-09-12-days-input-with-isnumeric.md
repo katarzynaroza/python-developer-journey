@@ -59,8 +59,8 @@ print(calculate_days("14 days, maybe only 2 actually"))
 # 💭 Technical reflection: 
 - not always I need to use a loops, for example here:
 <pre>
-      if len(list_of_numbers) >= 2:
-            return min(list_of_numbers)
+    if len(list_of_numbers) >= 2:
+        return min(list_of_numbers)
     return list_of_numbers[0]
 </pre>
 
