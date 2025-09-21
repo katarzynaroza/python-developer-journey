@@ -22,7 +22,7 @@ def check_item_stock(inventory: dict, item_name: str) -> bool:
 # 💭 Technical reflection: 
 - At the beginning I used "for" loop, but here it's not nesesery.  
 - The get method checks whether a key exists in the dictionary. If the key (item_name) is in the inventory, it returns its value; if not, it returns a default value (e.g., 0). This eliminates the need to separately check for the key's existence.  
-- To check if a key (e.g. product name) is in the dictionary, you use: "if item_name in inventory:"
+- To check if a key (e.g. product name) is in the dictionary, you use: "if item_name in inventory:" (item_name is variable with key inside for exapmple item_name = "orange").  
 - To retrieve a value (e.g. product quantity), you use: quantity = inventory[item_name] # WARNING: error if key is not present!  
 - But to retrieve a value it's safer to use: quantity = inventory.get(item_name, 0)  # there is no error, if key doesn't exist.
  
