@@ -35,7 +35,6 @@ RESULT:
 # 💭 Technical reflection: 
 - Enumerate() function gives me index, 
 - If I want to have full iteration, "return" can't be in loop,
-- If I want to work on keys, I have to do that in this way: robot["core_version"]
 - It is good to has some break in doing exercises - than it's easier to make them.
 - here: robot["core_version"] I work on value of core version, not on the key. If I would like to work on the key, I should write in code just "core version" (without []).
 
