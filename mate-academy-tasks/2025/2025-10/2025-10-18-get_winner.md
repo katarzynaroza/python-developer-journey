@@ -20,6 +20,7 @@ WARNING: here I need polish commments, because a I want to undestand the code pr
   
 RESULT:  
 <pre>
+# rules: odrzuca spacje wewnętrzne, minusy, kropki/przecinki a akceptuje „+” i spacje zewnętrzne (bo to obsłuży)
 WRONG = "wrong data"
 def parse_nonneg_int(x):
     if x is None: #  # odrzucam brak wartości; nie próbuję zgadywać liczby → zwracam WRONG. None nie jest liczbą ani poprawnym stringiem liczby, więc zwrot WRONG ma sens i upraszcza logikę.
